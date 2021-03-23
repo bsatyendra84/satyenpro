@@ -1,0 +1,47 @@
+body{
+    background-color: rebeccapurple;
+}
+#navbar{
+
+    flex-direction: column;
+    
+}
+#home{
+
+
+}
+#home::before{
+    height: 76%;
+
+
+}
+#services-container{
+    margin-top: 732px;
+
+
+    
+}
+#services{
+    flex-direction: column;
+}
+#clients{
+    
+
+}
+#clients::before {
+    content: "";
+    position: absolute;
+    top: 1956px;
+    background: url(food1.jpg)no-repeat center center/cover;
+    height: 24%;
+    width: 100%;
+    z-index: -1;
+    opacity: 1.6;
+}
+#head{
+
+}
+#form{
+
+
+}
